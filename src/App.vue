@@ -8,7 +8,7 @@
         h1 top
       .two(slot='bottom')
         h3 bottom
-      .other(slot='default')
+      .other
         h5 default
 </template>
 
